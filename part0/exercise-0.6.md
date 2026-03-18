@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -30,3 +31,4 @@ sequenceDiagram
     deactivate server
 
     note right of browser:update on https://studies.cs.helsinki.fi/exampleapp/spa with new_note_spa
+```
